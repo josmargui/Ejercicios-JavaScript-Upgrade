@@ -1,0 +1,15 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 50px;
+}
+
+div {
+  width: 25%;
+}
+
+b-imagen {
+  width: 100px;
+}/*# sourceMappingURL=ex1.css.map */
